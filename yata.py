@@ -24,4 +24,4 @@ if 'misc' in bot.MODULES:
     bot.add_cog(Misc(bot))
 
 # run bot
-bot.run(bot.BOT_TOKEN)
+bot.run(bot.NjQ5NzU2ODU4OTQ4NTE3OTE4.XeUduw.IuNxu7_j2m3YfBA4z1k_J3IBxYk)
